@@ -1,0 +1,55 @@
+{
+    "videos": {
+      "frontend": [
+        {
+          "id": 1,
+          "titulo": "Cuándo usar let, var y const? #AluraMás",
+          "link": "https://www.youtube.com/watch?v=PztCEdIJITY&t=638s"
+        },
+        {
+          "id": 2,
+          "titulo": "¿Qué es JavaScript?",
+          "link": "https://www.youtube.com/watch?v=GJfOSoaXk4s"
+        },
+        {
+          "id": 3,
+          "titulo": "Equipo Front End #AluraMás",
+          "link": "https://www.youtube.com/watch?v=rpvrLaBQwgg"
+        }
+      ],
+      "backend": [
+        {
+          "id": 1,
+          "titulo": "Spring Framework. ¿Qué es ? #AluraMás",
+          "link": "https://www.youtube.com/watch?v=t-iqt1b2qqk"
+        },
+        {
+          "id": 2,
+          "titulo": "¿Qué es SQL y NoSQL?",
+          "link": "https://www.youtube.com/watch?v=cLLKVd5CNLc"
+        },
+        {
+          "id": 3,
+          "titulo": "Simplificando tu código en Java: Conoce los enum #AluraMás",
+          "link": "https://www.youtube.com/watch?v=EoPvlE85XAQ&t=442s"
+        }
+      ],
+      "innovacionygestion": [
+        {
+          "id": 1,
+          "titulo": "¿Qué son las Soft Skills?",
+          "link": "https://www.youtube.com/watch?v=vhwspfvI52k"
+        },
+        {
+          "id": 2,
+          "titulo": "7 Soft Skills más deseadas por las empresas #AluraMás",
+          "link": "https://www.youtube.com/watch?v=YhR7Zp8NUzE"
+        },
+        {
+          "id": 3,
+          "titulo": "¿Qué son las metodologias ágiles?",
+          "link": "https://www.youtube.com/watch?v=6N3OkLCfK-0"
+        }
+      ]
+    }
+  }

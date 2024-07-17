@@ -1,0 +1,13 @@
+:root {
+  --font: "Roboto", sans-serif;
+  --blanco: rgba(255, 255, 255, 0.87); 
+  --negro: #242424;
+  --gris: #e2e2e2;
+}
+
+body {
+  font-family: var(--font);
+  background-color: var(--blanco);
+  
+  margin: 0;
+}
